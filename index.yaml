@@ -3,12 +3,12 @@ entries:
   app-on-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-16T14:43:22.511692819+02:00"
+    created: "2025-11-16T17:29:13.163275521+02:00"
     description: A Helm chart for Kubernetes
     digest: 701ed3309575a5ca47ab9372fac72d2837b44ec2de39b418adb1f4c2fc23146f
     name: app-on-helm
     type: application
     urls:
-    - https://github.com/AhmedElsheiry/simple-app-on-helm.git/app-on-helm-0.1.0.tgz
+    - https://ahmedelsheiry.github.io/simple-app-on-helm/app-on-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-16T14:43:22.511483664+02:00"
+generated: "2025-11-16T17:29:13.163054366+02:00"
